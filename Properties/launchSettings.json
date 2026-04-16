@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "outbox_to_service_bus_function": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7125",
+      "launchBrowser": false
+    }
+  }
+}
